@@ -1,12 +1,16 @@
 # Dracula for [Foobar](https://foobar.com)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Powerline](https://github.com/powerline/powerline).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+* Download release files, or git clone repo
+* Copy files in powerline/ folder
+* Paste/to files in your ~/.config/powerline folder
+
+All instructions can be found at [draculatheme.com/powerline](https://draculatheme.com/powerline).
 
 ## Team
 
@@ -16,6 +20,9 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 | ---------------------------------------------------------------------------------------- |
 | [Zeno Rocha](https://github.com/zenorocha)                                               |
 
+| [![Martin Lindelof](https://github.com/martinlindelof.png?size=100)](https://github.com/martinlindelof) |
+| ---------------------------------------------------------------------------------------- |
+| [Zeno Rocha](https://github.com/martinlindelof)                                               |
 ## Community
 
 - [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
