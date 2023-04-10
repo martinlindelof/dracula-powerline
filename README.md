@@ -1,4 +1,4 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Powerline](https://github.com/powerline/powerline)
 
 > A dark theme for [Powerline](https://github.com/powerline/powerline).
 
@@ -22,7 +22,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 | [![Martin Lindelof](https://github.com/martinlindelof.png?size=100)](https://github.com/martinlindelof) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/martinlindelof)                                               |
+| [Martin L](https://github.com/martinlindelof)                                               |
 ## Community
 
 - [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
